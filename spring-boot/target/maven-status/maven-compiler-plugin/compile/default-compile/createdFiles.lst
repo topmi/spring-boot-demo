@@ -1,0 +1,9 @@
+com/mx/springboot/JettyWebServer.class
+com/mx/springboot/MxCondition.class
+com/mx/springboot/MxSpringApplication.class
+com/mx/springboot/TomcatWebServer.class
+com/mx/springboot/WebServerAutoConfiguration.class
+com/mx/springboot/ConditionalOnClass.class
+com/mx/springboot/MxSpringBootApplication.class
+com/mx/springboot/WebServer.class
+com/mx/springboot/AutoConfiguration.class

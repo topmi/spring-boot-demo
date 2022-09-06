@@ -1,0 +1,3 @@
+com.mx.springboot.autoconfigure.webservices.WebServerAutoConfiguration
+com.mx.springboot.autoconfigure.transaction.TransactionAutoConfiguration
+com.mx.springboot.autoconfigure.aop.AopAutoConfiguration
